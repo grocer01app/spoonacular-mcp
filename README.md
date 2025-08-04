@@ -2,7 +2,8 @@
 
 A Model Context Protocol (MCP) server that provides access to the [Spoonacular Food API](https://spoonacular.com/food-api/). This server enables AI assistants to search for recipes, get nutritional information, find ingredients, and more through the MCP protocol.
 
-[![npm version](https://badge.fury.io/js/spoonacular-mcp.svg)](https://badge.fury.io/js/spoonacular-mcp)
+[![npm version](https://img.shields.io/npm/v/spoonacular-mcp.svg)](https://www.npmjs.com/package/spoonacular-mcp)
+[![npm downloads](https://img.shields.io/npm/dm/spoonacular-mcp.svg)](https://www.npmjs.com/package/spoonacular-mcp)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Features
